@@ -42,4 +42,12 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
+# Story of this game 📖
+I created this game as a freelancing project for one of my clients when I was 17 years old. The goal was to develop a simple proof of concept that showcased dice-rolling mechanics in a 3D environment, inspired by the classic game Monopoly.
 
+The project was an excellent opportunity to practice my Unity skills and improve my understanding of 3D game development. At that age, it was a great learning experience, and I was able to deliver the game on time, meeting the client’s expectations.
+
+Although the project was small, it played a significant role in my growth as a game developer, giving me valuable insights into freelancing, client communication, and the development process.
+
+## 🎮 Demo 🎮
+Unfortunately, there is no link for this game at the moment since it's just a POC.
