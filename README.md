@@ -4,6 +4,9 @@ Welcome to **DiceRoller Game**! 🎲 This is a **3D proof of concept (POC)** ins
 
 ![Game Preview](https://i.postimg.cc/zXcwJNgF/2025-01-03-150555.png)
 
+# Solo Project 🔥🔥🔥
+this project being made solo by me
+
 ## 🎮 Gameplay Details 🎮
 
 - **Operating System**: Windows 🖥️ & IOS 📱
