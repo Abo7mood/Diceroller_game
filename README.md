@@ -2,7 +2,7 @@
 
 Welcome to **DiceRoller Game**! 🎲 This is a **3D proof of concept (POC)** inspired by classic board games like Monopoly. Developed in Unity, the project focuses on showcasing dice-rolling mechanics in a 3D environment.
 
-![Game Preview]([https://i.postimg.cc/yYC5H5c3/2024-12-11-105326.png](https://i.postimg.cc/zXcwJNgF/2025-01-03-150555.png))
+![Game Preview](https://i.postimg.cc/zXcwJNgF/2025-01-03-150555.png)
 
 ## 🎮 Gameplay Details 🎮
 
