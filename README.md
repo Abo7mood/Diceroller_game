@@ -6,7 +6,7 @@ Welcome to **DiceRoller Game**! 🎲 This is a **3D proof of concept (POC)** ins
 
 ## 🎮 Gameplay Details 🎮
 
-- **Operating System**: Windows 🖥️
+- **Operating System**: Windows 🖥️ & IOS 📱
 - **Controls**: Mouse and Keyboard 🖱️⌨️
 - **Game Type**: 3D Game 🌍
 
@@ -52,4 +52,4 @@ The project was an excellent opportunity to practice my Unity skills and improve
 Although the project was small, it played a significant role in my growth as a game developer, giving me valuable insights into freelancing, client communication, and the development process.
 
 ## 🎮 Demo 🎮
-Unfortunately, there is no link for this game at the moment since it's just a POC.
+Try the playable demo here: [Dice roller Game Demo](https://abo-7mood.itch.io/dice-roller)
